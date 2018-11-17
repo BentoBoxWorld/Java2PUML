@@ -1,0 +1,2 @@
+def crawl(folder):
+    return
